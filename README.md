@@ -3,7 +3,7 @@
 Personal portfolio website of Wijnand ("Wine") Durk Langeraar,
 senior GIS and mapping consultant.
 
-**Live site:** https://winegis.github.io
+**Live site:** https://winebali.github.io
 
 Five decades of remote sensing, cartography and spatial analysis —
 from Landsat field mapping in New Guinea (1980s) and GPS-based
